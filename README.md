@@ -1,6 +1,10 @@
-# Smart Scale Monitor
+# Scale Scale Monitor
 
 基於 WPF 的電子秤即時監控系統，通過 TCP/WiFi 連接，即時接收並顯示多台電子秤的重量數據。
+
+
+
+
 
 ## 功能特性
 
@@ -15,15 +19,15 @@
 
 ### 電子秤硬體
 
-![電子秤硬體](file://D:\Visual Studio Project\honder_tcp_wifi_wpf\images\scale-hardware.jpg?msec=1776670780668)
+![電子秤硬體](images/scale-hardware.jpg)
 
 ### WiFi 模組配置
 
-![WiFi 模組配置介面](file://D:\Visual Studio Project\honder_tcp_wifi_wpf\images\wifi-config.png?msec=1776670780667)
+![WiFi 模組配置介面](images/wifi-config.png)
 
 ### 軟體即時顯示
 
-![軟體即時顯示](file://D:\Visual Studio Project\honder_tcp_wifi_wpf\images\app-screenshot.jpg?msec=1776670780668)
+![軟體即時顯示](images/app-screenshot.jpg)
 
 ## 技術架構
 
