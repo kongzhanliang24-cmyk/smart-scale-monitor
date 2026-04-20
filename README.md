@@ -1,4 +1,4 @@
-# Honder Scale Monitor
+# Smart Scale Monitor
 
 基於 WPF 的電子秤即時監控系統，通過 TCP/WiFi 連接，即時接收並顯示多台電子秤的重量數據。
 
